@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.center {
+  display: block;
+  margin-left: 50%;
+  margin-right: 50%;
+}
+
+.form-center {
+  margin-left: 25%;
+}
